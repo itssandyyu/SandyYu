@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SandyYu/static/css/main.14819343.chunk.css",
+    "main.js": "/SandyYu/static/js/main.0d1d2fda.chunk.js",
+    "main.js.map": "/SandyYu/static/js/main.0d1d2fda.chunk.js.map",
+    "runtime-main.js": "/SandyYu/static/js/runtime-main.f5a4c984.js",
+    "runtime-main.js.map": "/SandyYu/static/js/runtime-main.f5a4c984.js.map",
+    "static/css/2.35f98baf.chunk.css": "/SandyYu/static/css/2.35f98baf.chunk.css",
+    "static/js/2.218e247a.chunk.js": "/SandyYu/static/js/2.218e247a.chunk.js",
+    "static/js/2.218e247a.chunk.js.map": "/SandyYu/static/js/2.218e247a.chunk.js.map",
+    "index.html": "/SandyYu/index.html",
+    "precache-manifest.3719615a6d2c3e06692a0867241fbec1.js": "/SandyYu/precache-manifest.3719615a6d2c3e06692a0867241fbec1.js",
+    "service-worker.js": "/SandyYu/service-worker.js",
+    "static/css/2.35f98baf.chunk.css.map": "/SandyYu/static/css/2.35f98baf.chunk.css.map",
+    "static/css/main.14819343.chunk.css.map": "/SandyYu/static/css/main.14819343.chunk.css.map",
+    "static/js/2.218e247a.chunk.js.LICENSE": "/SandyYu/static/js/2.218e247a.chunk.js.LICENSE",
+    "static/media/MMA.png": "/SandyYu/static/media/MMA.b3e45541.png",
+    "static/media/Sandy-Yu.jpg": "/SandyYu/static/media/Sandy-Yu.fc58e783.jpg",
+    "static/media/Webgen.png": "/SandyYu/static/media/Webgen.2fe3a22f.png",
+    "static/media/c4me.png": "/SandyYu/static/media/c4me.dad66092.png",
+    "static/media/csg.png": "/SandyYu/static/media/csg.97a974d2.png",
+    "static/media/e-comm.png": "/SandyYu/static/media/e-comm.f86c10d1.png",
+    "static/media/twitter.jpg": "/SandyYu/static/media/twitter.78294cb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5a4c984.js",
+    "static/css/2.35f98baf.chunk.css",
+    "static/js/2.218e247a.chunk.js",
+    "static/css/main.14819343.chunk.css",
+    "static/js/main.0d1d2fda.chunk.js"
+  ]
+}
